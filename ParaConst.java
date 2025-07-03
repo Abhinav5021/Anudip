@@ -6,6 +6,7 @@ public class ParaConst {
     }
 
     public static void main(String args[]) {
+        @SuppressWarnings("unused")
         ParaConst pc = new ParaConst(10);
 
     }

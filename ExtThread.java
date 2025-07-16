@@ -12,3 +12,10 @@ public class ExtThread extends Thread {
     }
 
 }
+
+// 1. New State
+// 2. Runnable State
+// 3. Blocked State
+// 4. Waiting State
+// 5. Timed Waiting State
+// 6. Terminated State

@@ -6,6 +6,8 @@ Submitted By :
 
 2] Virkar Mayuri Balu.
 
+3] Pande Siddhi Sachin.
+
 1. Introduction
 
 The airline industry has witnessed rapid technological advancements over the years, particularly in the field of reservation systems. An Airline Reservation System (ARS) is a computerized system used to store and retrieve information and conduct transactions related to air travel. This project, titled "Airline Reservation System", aims to design and develop a console-based Java application that interacts with a MySQL database to provide essential functionalities such as user login, flight management, and ticket booking.

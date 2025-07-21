@@ -3,8 +3,8 @@ import java.util.*;
 
 public class AirlineSystem {
     static final String DB_URL = "jdbc:mysql://localhost:3306/airline";
-    static final String USER = "root"; // change to your username
-    static final String PASS = "root"; // change to your password
+    static final String USER = "root";
+    static final String PASS = "root";
 
     static Connection conn;
     static Scanner sc = new Scanner(System.in);
